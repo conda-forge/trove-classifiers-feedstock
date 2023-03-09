@@ -1,11 +1,11 @@
-About trove-classifiers
-=======================
+About trove-classifiers-feedstock
+=================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/trove-classifiers-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/pypa/trove-classifiers
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/trove-classifiers-feedstock/blob/main/LICENSE.txt)
 
 Summary: Canonical source for classifiers on PyPI (pypi.org).
 
