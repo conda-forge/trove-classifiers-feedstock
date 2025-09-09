@@ -1,5 +1,5 @@
 {% set name = "trove-classifiers" %}
-{% set version = "2025.8.26.11" %}
+{% set version = "2025.9.8.13" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name.replace('-', '_') }}-{{ version }}.tar.gz
-  sha256: e73efff317c492a7990092f9c12676c705bf6cfe40a258a93f63f4b4c9941432
+  sha256: 2de91c8f286b7fea55072061924f69e7f3bdf7a9cb63719c90090e41c6657d3a
 
 build:
   noarch: python
